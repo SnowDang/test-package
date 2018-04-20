@@ -7,9 +7,7 @@
 #
 node_modules/
 npm-debug.log
-yarn-error.log
-
-local/  
+yarn-error.log 
 
 # Xcode
 #
